@@ -1,7 +1,7 @@
 # WhatBytes Assessment
 
 ## Live Link
-[WhatBytes Dashboard](https://your-deployed-url.com)
+[WhatBytes Dashboard](https://whatbytes-assessment.netlify.app/)
 
 ## Screenshots
 ![Dashboard Desktop View](public/1.png)
